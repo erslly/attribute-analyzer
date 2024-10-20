@@ -37,8 +37,8 @@ function parseAttributes(input) {
         endOffset: 0
       },
       selfClosing: selfClosing,
-      namespace: null, // Namespace desteği
-      isVoid: isVoidElement(getName) // Boş eleman kontrolü
+      namespace: null, 
+      isVoid: isVoidElement(getName) 
     },
     addAttribute: (userAttribute) => addAttribute(output, userAttribute),
     removeAttribute: (willBeRemovedAttribute) => removeAttribute(output, willBeRemovedAttribute)
