@@ -16,7 +16,7 @@ Projenizi başlatmak için aşağıdaki adımları izleyin:
 1. Bu depoyu klonlayın:
 
    ```bash
-   git clone https://github.com/kullanici_adi/attribute-analyzer.git
+   git clone https://github.com/erslly/attribute-analyzer.git
    cd attribute-analyzer 
 
 2. Gerekli bağımlılıkları kurun:
